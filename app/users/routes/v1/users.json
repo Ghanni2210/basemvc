@@ -1,0 +1,10 @@
+{
+  "/create": {
+    "POST": {
+      "route": "create",
+      "policy": []
+    }
+  }
+} 
+
+
